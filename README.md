@@ -6,9 +6,9 @@ A place for me to practice and demo the Bootstrap CSS Framework.
 
 This is a website about...
 
-In contains one page:
+It contains one page:
 
-* buttons.html
+* buttons.html - contains 5 buttons that respond to click events
 
 
 

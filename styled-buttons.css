@@ -1,0 +1,13 @@
+/* #button1 {
+  border: solid red;
+  border-radius: 25px;
+  padding: 5px
+} */
+.btn {
+  border: solid red;
+  border-radius: 25px;
+  padding: 5px;
+}
+#far {
+  padding: 10px;
+}

@@ -10,6 +10,7 @@ It contains one page:
 
 - buttons.html - contains 5 buttons that respond to click events
 - styled-buttons.html -contains 10 buttons styled with css/bootstraps with eventlisteners
+- grid, card, and list-group html pages added
 
 ## Built With
 
@@ -26,6 +27,9 @@ It contains one page:
 - [x] styled-buttons.html styled onle one of the buttons with an ID
 - [x] styled-buttons.css change the #ID to a class and use this to style all the buttons
 - [x] styled-buttons.js put an event listener on at least two of the buttons so that they respond to clicks
+- [x] styled card.html with dropdown
+- [x] grid.html created wiyh rows and columns
+- [x] list-group.html created with five items and changed style
 
 ## Contact
 
